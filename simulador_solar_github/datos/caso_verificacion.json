@@ -1,0 +1,15 @@
+{
+  "vivienda": "Caso de Verificación (4 Horas - Examen/Clase)",
+  "tarifa": 800,
+  "perfil": [
+    0.0, 0.5, 1.0, 0.5
+  ],
+  "consumo": [
+    1.0, 1.0, 1.0, 1.0
+  ],
+  "sistema": {
+    "paneles": 4,
+    "kw_panel": 0.5,
+    "perdidas": 0.2
+  }
+}
